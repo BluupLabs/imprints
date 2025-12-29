@@ -1,0 +1,13 @@
+{
+  "name": "imprints-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+     "clean": "rm -rf dist",
+    "build:data": "node scripts/build-data.mjs",
+    "build": "npm run clean && npm run build:data"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
