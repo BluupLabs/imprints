@@ -15,11 +15,6 @@ pids/
 *.seed
 *.pid.lock
 
-# Lockfiles
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-
 # Build output
 dist/
 build/
