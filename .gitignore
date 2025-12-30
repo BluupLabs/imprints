@@ -54,7 +54,6 @@ Desktop.ini
 *.zip
 
 # Project-specific: images/patches and build output
-resources/images/
 resources/patches/
 dist/amiibo*.json
 build-data.mjs
