@@ -70,12 +70,12 @@ function normalizeImagePath(entry) {
 
   if (posixish.startsWith("images/")) {
     // Preserve subfolders, e.g. images/skylanders/tree_rex.png
-    return posixish;
+    return `https://bluuplabs.github.io/imprints/${posixish}`;
   }
 
   // Fall back to basename (old behaviour)
   const basename = path.posix.basename(posixish);
-  return basename ? `images/${basename}` : "";
+  return basename ? `https://bluuplabs.github.io/imprints/images/${basename}` : "";
 }
 
 function toLiteAmiibo(entry) {
