@@ -10,12 +10,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 0,
       "variant": 6145,
       "sig": 6145,
-      "image": "images/skylanders/spyros_adventure/6145.png",
-      "name": "Whirlwind (Series 2)",
+      "image": "images/skylanders/giants/6145.png",
+      "name": "Whirlwind",
       "type": "skylander"
     },
     {
@@ -28,7 +28,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 0,
       "variant": 6162,
       "sig": 6162,
@@ -37,11 +37,11 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 0,
       "variant": 10245,
       "sig": 10245,
-      "image": "images/skylanders/spyros_adventure/10245.png",
+      "image": "images/skylanders/swap_force/10245.png",
       "name": "Horn Blast Whirlwind",
       "type": "skylander"
     },
@@ -64,16 +64,16 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 1,
       "variant": 6145,
       "sig": 71681,
-      "image": "images/skylanders/spyros_adventure/71681.png",
-      "name": "Sonic Boom (Series 2)",
+      "image": "images/skylanders/giants/71681.png",
+      "name": "Sonic Boom",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 1,
       "variant": 6161,
       "sig": 71697,
@@ -82,7 +82,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 1,
       "variant": 6163,
       "sig": 71699,
@@ -100,7 +100,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 2,
       "variant": 8710,
       "sig": 139782,
@@ -118,12 +118,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 3,
       "variant": 6145,
       "sig": 202753,
-      "image": "images/skylanders/spyros_adventure/202753.png",
-      "name": "Lightning Rod (Series 2)",
+      "image": "images/skylanders/giants/202753.png",
+      "name": "Lightning Rod",
       "type": "skylander"
     },
     {
@@ -132,7 +132,7 @@
       "variant": 6164,
       "sig": 202772,
       "image": "images/skylanders/spyros_adventure/202772.png",
-      "name": "Lightning Rod (Iridescent)",
+      "name": "Purple Lightning Rod",
       "type": "skylander"
     },
     {
@@ -145,12 +145,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 4,
       "variant": 6145,
       "sig": 268289,
-      "image": "images/skylanders/spyros_adventure/268289.png",
-      "name": "Bash (Series 2)",
+      "image": "images/skylanders/giants/268289.png",
+      "name": "Bash",
       "type": "skylander"
     },
     {
@@ -163,20 +163,20 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 5,
       "variant": 6145,
       "sig": 333825,
-      "image": "images/skylanders/spyros_adventure/333825.png",
-      "name": "Terrafin (Series 2)",
+      "image": "images/skylanders/giants/333825.png",
+      "name": "Terrafin",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 5,
       "variant": 10245,
       "sig": 337925,
-      "image": "images/skylanders/spyros_adventure/337925.png",
+      "image": "images/skylanders/swap_force/337925.png",
       "name": "Knockout Terrafin",
       "type": "skylander"
     },
@@ -186,7 +186,7 @@
       "variant": 14352,
       "sig": 342032,
       "image": "images/skylanders/spyros_adventure/342032.png",
-      "name": "Terrafin (Eon's Elite)",
+      "name": "Eon's Elite Terrafin",
       "type": "skylander"
     },
     {
@@ -204,7 +204,7 @@
       "variant": 18448,
       "sig": 411664,
       "image": "images/skylanders/spyros_adventure/411664.png",
-      "name": "Dino-Rang (Eon's Elite)",
+      "name": "Eon's Elite Dino-Rang",
       "type": "skylander"
     },
     {
@@ -217,11 +217,11 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 7,
       "variant": 4614,
       "sig": 463366,
-      "image": "images/skylanders/spyros_adventure/463366.png",
+      "image": "images/skylanders/giants/463366.png",
       "name": "Prism Break (LightCore)",
       "type": "skylander"
     },
@@ -231,24 +231,24 @@
       "variant": 4628,
       "sig": 463380,
       "image": "images/skylanders/spyros_adventure/463380.png",
-      "name": "Prism Break (LightCore Rare)",
+      "name": "Employee Edition Prism Break",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 7,
       "variant": 6145,
       "sig": 464897,
-      "image": "images/skylanders/spyros_adventure/464897.png",
-      "name": "Prism Break (Series 2)",
+      "image": "images/skylanders/giants/464897.png",
+      "name": "Prism Break",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 7,
       "variant": 10245,
       "sig": 468997,
-      "image": "images/skylanders/spyros_adventure/468997.png",
+      "image": "images/skylanders/swap_force/468997.png",
       "name": "Hyper Beam Prism Break",
       "type": "skylander"
     },
@@ -271,38 +271,38 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 9,
       "variant": 4614,
       "sig": 594438,
-      "image": "images/skylanders/spyros_adventure/594438.png",
+      "image": "images/skylanders/giants/594438.png",
       "name": "Eruptor (LightCore)",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 9,
       "variant": 6145,
       "sig": 595969,
-      "image": "images/skylanders/spyros_adventure/595969.png",
-      "name": "Eruptor (Series 2)",
+      "image": "images/skylanders/giants/595969.png",
+      "name": "Eruptor",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 9,
       "variant": 6164,
       "sig": 595988,
-      "image": "images/skylanders/spyros_adventure/595988.png",
-      "name": "Eruptor (White Flocked)",
+      "image": "images/skylanders/giants/595988.png",
+      "name": "White Flocked Eruptor",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 9,
       "variant": 10245,
       "sig": 600069,
-      "image": "images/skylanders/spyros_adventure/600069.png",
+      "image": "images/skylanders/swap_force/600069.png",
       "name": "Lava Barf Eruptor",
       "type": "skylander"
     },
@@ -343,12 +343,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 10,
       "variant": 6145,
       "sig": 661505,
-      "image": "images/skylanders/spyros_adventure/661505.png",
-      "name": "Ignitor (Series 2)",
+      "image": "images/skylanders/giants/661505.png",
+      "name": "Ignitor",
       "type": "skylander"
     },
     {
@@ -370,12 +370,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 11,
       "variant": 6145,
       "sig": 727041,
-      "image": "images/skylanders/spyros_adventure/727041.png",
-      "name": "Flameslinger (Series 2)",
+      "image": "images/skylanders/giants/727041.png",
+      "name": "Flameslinger",
       "type": "skylander"
     },
     {
@@ -397,12 +397,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 12,
       "variant": 6145,
       "sig": 792577,
-      "image": "images/skylanders/spyros_adventure/792577.png",
-      "name": "Zap (Series 2)",
+      "image": "images/skylanders/giants/792577.png",
+      "name": "Zap",
       "type": "skylander"
     },
     {
@@ -415,7 +415,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 13,
       "variant": 8710,
       "sig": 860678,
@@ -433,12 +433,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 14,
       "variant": 6145,
       "sig": 923649,
-      "image": "images/skylanders/spyros_adventure/923649.png",
-      "name": "Gill Grunt (Series 2)",
+      "image": "images/skylanders/giants/923649.png",
+      "name": "Gill Grunt",
       "type": "skylander"
     },
     {
@@ -447,7 +447,7 @@
       "variant": 6167,
       "sig": 923671,
       "image": "images/skylanders/spyros_adventure/923671.png",
-      "name": "Gill Grunt (Metallic)",
+      "name": "Metallic Green Gill Grunt",
       "type": "skylander"
     },
     {
@@ -474,7 +474,7 @@
       "variant": 14352,
       "sig": 931856,
       "image": "images/skylanders/spyros_adventure/931856.png",
-      "name": "Gill Grunt (Eon's Elite)",
+      "name": "Eon's Elite Gill Grunt",
       "type": "skylander"
     },
     {
@@ -487,12 +487,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 15,
       "variant": 6145,
       "sig": 989185,
-      "image": "images/skylanders/spyros_adventure/989185.png",
-      "name": "Slam Bam (Series 2)",
+      "image": "images/skylanders/giants/989185.png",
+      "name": "Slam Bam",
       "type": "skylander"
     },
     {
@@ -523,12 +523,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 16,
       "variant": 6145,
       "sig": 1054721,
-      "image": "images/skylanders/spyros_adventure/1054721.png",
-      "name": "Spyro (Series 2)",
+      "image": "images/skylanders/giants/1054721.png",
+      "name": "Spyro",
       "type": "skylander"
     },
     {
@@ -573,7 +573,7 @@
       "variant": 18448,
       "sig": 1132560,
       "image": "images/skylanders/spyros_adventure/1132560.png",
-      "name": "Voodood (Eon's Elite)",
+      "name": "Elite Voodood",
       "type": "skylander"
     },
     {
@@ -586,12 +586,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 18,
       "variant": 6145,
       "sig": 1185793,
-      "image": "images/skylanders/spyros_adventure/1185793.png",
-      "name": "Double Trouble (Series 2)",
+      "image": "images/skylanders/giants/1185793.png",
+      "name": "Double Trouble",
       "type": "skylander"
     },
     {
@@ -613,12 +613,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 19,
       "variant": 6145,
       "sig": 1251329,
-      "image": "images/skylanders/spyros_adventure/1251329.png",
-      "name": "Trigger Happy (Series 2)",
+      "image": "images/skylanders/giants/1251329.png",
+      "name": "Trigger Happy",
       "type": "skylander"
     },
     {
@@ -658,21 +658,21 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 20,
       "variant": 4614,
       "sig": 1315334,
-      "image": "images/skylanders/spyros_adventure/1315334.png",
+      "image": "images/skylanders/giants/1315334.png",
       "name": "Drobot (LightCore)",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 20,
       "variant": 6145,
       "sig": 1316865,
-      "image": "images/skylanders/spyros_adventure/1316865.png",
-      "name": "Drobot (Series 2)",
+      "image": "images/skylanders/giants/1316865.png",
+      "name": "Drobot",
       "type": "skylander"
     },
     {
@@ -685,12 +685,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 21,
       "variant": 6145,
       "sig": 1382401,
-      "image": "images/skylanders/spyros_adventure/1382401.png",
-      "name": "Drill Sergeant (Series 2)",
+      "image": "images/skylanders/giants/1382401.png",
+      "name": "Drill Sergeant",
       "type": "skylander"
     },
     {
@@ -721,12 +721,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 23,
       "variant": 6145,
       "sig": 1513473,
-      "image": "images/skylanders/spyros_adventure/1513473.png",
-      "name": "Wrecking Ball (Series 2)",
+      "image": "images/skylanders/giants/1513473.png",
+      "name": "Wrecking Ball",
       "type": "skylander"
     },
     {
@@ -766,12 +766,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 25,
       "variant": 6145,
       "sig": 1644545,
-      "image": "images/skylanders/spyros_adventure/1644545.png",
-      "name": "Zook (Series 2)",
+      "image": "images/skylanders/giants/1644545.png",
+      "name": "Zook",
       "type": "skylander"
     },
     {
@@ -802,12 +802,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 26,
       "variant": 6145,
       "sig": 1710081,
-      "image": "images/skylanders/spyros_adventure/1710081.png",
-      "name": "Stealth Elf (Series 2)",
+      "image": "images/skylanders/giants/1710081.png",
+      "name": "Stealth Elf",
       "type": "skylander"
     },
     {
@@ -856,21 +856,21 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 27,
       "variant": 6145,
       "sig": 1775617,
-      "image": "images/skylanders/spyros_adventure/1775617.png",
-      "name": "Stump Smash (Series 2)",
+      "image": "images/skylanders/giants/1775617.png",
+      "name": "Stump Smash",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 27,
       "variant": 6164,
       "sig": 1775636,
-      "image": "images/skylanders/spyros_adventure/1775636.png",
-      "name": "Stump Smash (White Flocked)",
+      "image": "images/skylanders/giants/1775636.png",
+      "name": "White Flocked Stump Smash",
       "type": "skylander"
     },
     {
@@ -892,21 +892,21 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 29,
       "variant": 4614,
       "sig": 1905158,
-      "image": "images/skylanders/spyros_adventure/1905158.png",
+      "image": "images/skylanders/giants/1905158.png",
       "name": "Hex (LightCore)",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 29,
       "variant": 6145,
       "sig": 1906689,
-      "image": "images/skylanders/spyros_adventure/1906689.png",
-      "name": "Hex (Series 2)",
+      "image": "images/skylanders/giants/1906689.png",
+      "name": "Hex",
       "type": "skylander"
     },
     {
@@ -919,21 +919,21 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 30,
       "variant": 6145,
       "sig": 1972225,
-      "image": "images/skylanders/spyros_adventure/1972225.png",
-      "name": "Chop Chop (Series 2)",
+      "image": "images/skylanders/giants/1972225.png",
+      "name": "Chop Chop",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 30,
       "variant": 6148,
       "sig": 1972228,
-      "image": "images/skylanders/spyros_adventure/1972228.png",
-      "name": "Chop Chop (Metallic Blue)",
+      "image": "images/skylanders/giants/1972228.png",
+      "name": "Metallic Blue Chop Chop",
       "type": "skylander"
     },
     {
@@ -946,12 +946,12 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 30,
       "variant": 10262,
       "sig": 1976342,
-      "image": "images/skylanders/spyros_adventure/1976342.png",
-      "name": "Chop Chop (Green)",
+      "image": "images/skylanders/swap_force/1976342.png",
+      "name": "Green Chop Chop",
       "type": "skylander"
     },
     {
@@ -960,7 +960,7 @@
       "variant": 14352,
       "sig": 1980432,
       "image": "images/skylanders/spyros_adventure/1980432.png",
-      "name": "Chop Chop (Eon's Elite)",
+      "name": "Eon's Elite Chop Chop",
       "type": "skylander"
     },
     {
@@ -978,7 +978,7 @@
       "variant": 18448,
       "sig": 2050064,
       "image": "images/skylanders/spyros_adventure/2050064.png",
-      "name": "Ghost Roaster (Eon's Elite)",
+      "name": "Eon's Elite Ghost Roaster",
       "type": "skylander"
     },
     {
@@ -991,29 +991,29 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 32,
       "variant": 6145,
       "sig": 2103297,
-      "image": "images/skylanders/spyros_adventure/2103297.png",
-      "name": "Cynder (Series 2)",
+      "image": "images/skylanders/giants/2103297.png",
+      "name": "Cynder",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "Giants",
       "figureId": 32,
       "variant": 6161,
       "sig": 2103313,
-      "image": "images/skylanders/spyros_adventure/2103313.png",
-      "name": "Cynder (Glow in the Dark)",
+      "image": "images/skylanders/giants/2103313.png",
+      "name": "Glow in the Dark Cynder",
       "type": "skylander"
     },
     {
-      "gameSeries": "Spyro's Adventure",
+      "gameSeries": "SWAP Force",
       "figureId": 32,
       "variant": 10245,
       "sig": 2107397,
-      "image": "images/skylanders/spyros_adventure/2107397.png",
+      "image": "images/skylanders/swap_force/2107397.png",
       "name": "Phantom Cynder",
       "type": "skylander"
     },
@@ -1022,7 +1022,7 @@
       "figureId": 32,
       "variant": 14345,
       "sig": 2111497,
-      "image": "images/skylanders/spyros_adventure/2111497.png",
+      "image": "images/skylanders/spyros_adventure/2107397.png",
       "name": "Cynder (UNRELEASED Series 4)",
       "type": "skylander"
     },
@@ -1135,7 +1135,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 103,
       "variant": 8710,
       "sig": 6758918,
@@ -1167,7 +1167,7 @@
       "variant": 4627,
       "sig": 6820371,
       "image": "images/skylanders/giants/6820371.png",
-      "name": "Hot Head (Sparkle/Glitter)",
+      "name": "Sparkle Hot Head",
       "type": "skylander"
     },
     {
@@ -1185,7 +1185,7 @@
       "variant": 4117,
       "sig": 6885397,
       "image": "images/skylanders/giants/6885397.png",
-      "name": "Hot Dog (Color Shift)",
+      "name": "E3 Special Hot Dog",
       "type": "skylander"
     },
     {
@@ -1207,30 +1207,30 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 105,
       "variant": 10266,
       "sig": 6891546,
-      "image": "images/skylanders/giants/6891546.png",
-      "name": "Hot Dog (Red Frito-Lay)",
+      "image": "images/skylanders/swap_force/6891546.png",
+      "name": "Red Flame Frito-Lay Fire Bone Hot Dog",
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 105,
       "variant": 10267,
       "sig": 6891547,
-      "image": "images/skylanders/giants/6891547.png",
-      "name": "Hot Dog (Green Frito-Lay)",
+      "image": "images/skylanders/swap_force/6891547.png",
+      "name": "Green Flame Frito-Lay Fire Bone Hot Dog",
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 105,
       "variant": 10268,
       "sig": 6891548,
-      "image": "images/skylanders/giants/6891548.png",
-      "name": "Hot Dog (Purple Frito-Lay)",
+      "image": "images/skylanders/swap_force/6891548.png",
+      "name": "Purple Flame Frito-Lay Fire Bone Hot Dog",
       "type": "skylander"
     },
     {
@@ -1374,25 +1374,25 @@
       "variant": 4115,
       "sig": 7278611,
       "image": "images/skylanders/giants/7278611.png",
-      "name": "Sprocket (Sparkle/Glitter)",
+      "name": "Sparkle Sprocket",
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 111,
       "variant": 10245,
       "sig": 7284741,
-      "image": "images/skylanders/giants/7284741.png",
+      "image": "images/skylanders/swap_force/7284741.png",
       "name": "Heavy Duty Sprocket",
       "type": "skylander"
     },
     {
-      "gameSeries": "Giants",
+      "gameSeries": "SWAP Force",
       "figureId": 111,
       "variant": 10265,
       "sig": 7284761,
       "image": "images/skylanders/giants/7284761.png",
-      "name": "Sprocket (Heavy Metal)",
+      "name": "Heavy Metal Sprocket",
       "type": "skylander"
     },
     {
@@ -1428,7 +1428,7 @@
       "variant": 4119,
       "sig": 7409687,
       "image": "images/skylanders/giants/7409687.png",
-      "name": "Shroomboom (Metallic)",
+      "name": "Metallic Green Shroomboom",
       "type": "skylander"
     },
     {
@@ -1464,7 +1464,7 @@
       "variant": 4628,
       "sig": 7475732,
       "image": "images/skylanders/giants/7475732.png",
-      "name": "Eye-Brawl (Iridescent)",
+      "name": "Metallic Purple Eye-Brawl",
       "type": "skylander"
     },
     {
@@ -1473,7 +1473,7 @@
       "variant": 4629,
       "sig": 7475733,
       "image": "images/skylanders/giants/7475733.png",
-      "name": "Eye-Brawl (Pumpkin)",
+      "name": "Pumpkin Eye-Brawl",
       "type": "skylander"
     },
     {
@@ -1491,7 +1491,7 @@
       "variant": 4113,
       "sig": 7540753,
       "image": "images/skylanders/giants/7540753.png",
-      "name": "Fright Rider (Glow in the Dark)",
+      "name": "Glow-in-the-Dark Fright Rider",
       "type": "skylander"
     },
     {
@@ -1500,29 +1500,29 @@
       "variant": 4117,
       "sig": 7540757,
       "image": "images/skylanders/giants/7540757.png",
-      "name": "Fright Rider (Halloween)",
+      "name": "Halloween Fright Rider",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 200,
       "variant": 0,
       "sig": 13107200,
-      "image": "images/skylanders/toys_for_bob_items_traps/13107200.png",
+      "image": "images/skylanders/spyros_adventure/13107200.png",
       "name": "Anvil Rain",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 201,
       "variant": 0,
       "sig": 13172736,
-      "image": "images/skylanders/toys_for_bob_items_traps/13172736.png",
+      "image": "images/skylanders/spyros_adventure/13172736.png",
       "name": "Hidden Treasure",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 201,
       "variant": 4096,
       "sig": 13176832,
@@ -1531,16 +1531,16 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 202,
       "variant": 0,
       "sig": 13238272,
-      "image": "images/skylanders/toys_for_bob_items_traps/13238272.png",
+      "image": "images/skylanders/spyros_adventure/13238272.png",
       "name": "Healing Elixir",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 203,
       "variant": 0,
       "sig": 13303808,
@@ -1549,7 +1549,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 204,
       "variant": 0,
       "sig": 13369344,
@@ -1558,25 +1558,25 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 205,
       "variant": 0,
       "sig": 13434880,
-      "image": "images/skylanders/toys_for_bob_items_traps/13434880.png",
+      "image": "images/skylanders/spyros_adventure/13434880.png",
       "name": "Sky-Iron Shield",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 206,
       "variant": 0,
       "sig": 13500416,
-      "image": "images/skylanders/toys_for_bob_items_traps/13500416.png",
+      "image": "images/skylanders/spyros_adventure/13500416.png",
       "name": "Winged Boots",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 207,
       "variant": 0,
       "sig": 13565952,
@@ -1585,7 +1585,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 208,
       "variant": 4614,
       "sig": 13636102,
@@ -1594,7 +1594,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 208,
       "variant": 5634,
       "sig": 13637122,
@@ -1603,7 +1603,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 209,
       "variant": 4614,
       "sig": 13701638,
@@ -1612,7 +1612,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12290,
       "sig": 13774850,
@@ -1621,7 +1621,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12296,
       "sig": 13774856,
@@ -1630,7 +1630,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12299,
       "sig": 13774859,
@@ -1639,7 +1639,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12302,
       "sig": 13774862,
@@ -1648,7 +1648,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12306,
       "sig": 13774866,
@@ -1657,7 +1657,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 210,
       "variant": 12309,
       "sig": 13774869,
@@ -1666,7 +1666,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12289,
       "sig": 13840385,
@@ -1675,7 +1675,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12290,
       "sig": 13840386,
@@ -1684,7 +1684,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12294,
       "sig": 13840390,
@@ -1693,7 +1693,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 13318,
       "sig": 13841414,
@@ -1702,7 +1702,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12295,
       "sig": 13840391,
@@ -1711,7 +1711,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12299,
       "sig": 13840395,
@@ -1720,7 +1720,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 211,
       "variant": 12310,
       "sig": 13840406,
@@ -1729,7 +1729,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12291,
       "sig": 13905923,
@@ -1738,7 +1738,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12294,
       "sig": 13905926,
@@ -1747,7 +1747,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12302,
       "sig": 13905934,
@@ -1756,7 +1756,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12304,
       "sig": 13905936,
@@ -1765,7 +1765,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12305,
       "sig": 13905937,
@@ -1774,7 +1774,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 212,
       "variant": 12312,
       "sig": 13905944,
@@ -1783,7 +1783,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12292,
       "sig": 13971460,
@@ -1792,7 +1792,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 13316,
       "sig": 13972484,
@@ -1801,7 +1801,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12296,
       "sig": 13971464,
@@ -1810,7 +1810,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 13320,
       "sig": 13972488,
@@ -1819,7 +1819,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12299,
       "sig": 13971467,
@@ -1828,7 +1828,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12300,
       "sig": 13971468,
@@ -1837,7 +1837,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12304,
       "sig": 13971472,
@@ -1846,7 +1846,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 213,
       "variant": 12311,
       "sig": 13971479,
@@ -1855,7 +1855,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12289,
       "sig": 14036993,
@@ -1864,7 +1864,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12295,
       "sig": 14036999,
@@ -1873,7 +1873,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12297,
       "sig": 14037001,
@@ -1882,7 +1882,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12300,
       "sig": 14037004,
@@ -1891,7 +1891,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12310,
       "sig": 14037014,
@@ -1900,7 +1900,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 214,
       "variant": 12314,
       "sig": 14037018,
@@ -1909,7 +1909,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12293,
       "sig": 14102533,
@@ -1918,7 +1918,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12297,
       "sig": 14102537,
@@ -1927,7 +1927,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12305,
       "sig": 14102545,
@@ -1936,7 +1936,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12306,
       "sig": 14102546,
@@ -1945,7 +1945,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12311,
       "sig": 14102551,
@@ -1954,7 +1954,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 215,
       "variant": 12315,
       "sig": 14102555,
@@ -1963,7 +1963,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12291,
       "sig": 14168067,
@@ -1972,7 +1972,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12292,
       "sig": 14168068,
@@ -1981,7 +1981,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12298,
       "sig": 14168074,
@@ -1990,7 +1990,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12302,
       "sig": 14168078,
@@ -1999,7 +1999,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12306,
       "sig": 14168082,
@@ -2008,7 +2008,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 216,
       "variant": 12314,
       "sig": 14168090,
@@ -2017,7 +2017,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12291,
       "sig": 14233603,
@@ -2026,7 +2026,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12293,
       "sig": 14233605,
@@ -2035,7 +2035,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12298,
       "sig": 14233610,
@@ -2044,7 +2044,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12304,
       "sig": 14233616,
@@ -2053,7 +2053,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12312,
       "sig": 14233624,
@@ -2062,7 +2062,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 217,
       "variant": 12315,
       "sig": 14233627,
@@ -2071,7 +2071,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 218,
       "variant": 12308,
       "sig": 14299156,
@@ -2080,7 +2080,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 218,
       "variant": 12312,
       "sig": 14299160,
@@ -2089,7 +2089,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 218,
       "variant": 12314,
       "sig": 14299162,
@@ -2098,7 +2098,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 219,
       "variant": 12303,
       "sig": 14364687,
@@ -2107,7 +2107,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 219,
       "variant": 12309,
       "sig": 14364693,
@@ -2116,7 +2116,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 219,
       "variant": 12315,
       "sig": 14364699,
@@ -2125,7 +2125,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 220,
       "variant": 12318,
       "sig": 14430238,
@@ -2134,25 +2134,25 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 220,
       "variant": 13343,
       "sig": 14431263,
-      "image": "images/skylanders/toys_for_bob_items_traps/14431263.png",
+      "image": "images/skylanders/spyros_adventure/14431263.png",
       "name": "Ultimate Kaos Trap",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 230,
       "variant": 12288,
       "sig": 15085568,
-      "image": "images/skylanders/toys_for_bob_items_traps/15085568.png",
+      "image": "images/skylanders/spyros_adventure/15085568.png",
       "name": "Hand of Fate",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 230,
       "variant": 13315,
       "sig": 15086595,
@@ -2161,34 +2161,34 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 231,
       "variant": 12288,
       "sig": 15151104,
-      "image": "images/skylanders/toys_for_bob_items_traps/15151104.png",
+      "image": "images/skylanders/spyros_adventure/15151104.png",
       "name": "Piggy Bank",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 232,
       "variant": 12288,
       "sig": 15216640,
-      "image": "images/skylanders/toys_for_bob_items_traps/15216640.png",
+      "image": "images/skylanders/spyros_adventure/15216640.png",
       "name": "Rocket Ram",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 233,
       "variant": 12288,
       "sig": 15282176,
-      "image": "images/skylanders/toys_for_bob_items_traps/15282176.png",
+      "image": "images/skylanders/spyros_adventure/15282176.png",
       "name": "Tiki Speaky",
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 235,
       "variant": 20481,
       "sig": 15421441,
@@ -2197,7 +2197,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 235,
       "variant": 20482,
       "sig": 15421442,
@@ -2206,7 +2206,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 235,
       "variant": 20483,
       "sig": 15421443,
@@ -2215,7 +2215,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 235,
       "variant": 20503,
       "sig": 15421463,
@@ -2224,7 +2224,7 @@
       "type": "skylander"
     },
     {
-      "gameSeries": "Toys For Bob Items/Traps",
+      "gameSeries": "Spyro's Adventure",
       "figureId": 235,
       "variant": 20505,
       "sig": 15421465,
@@ -2868,7 +2868,7 @@
       "variant": 12288,
       "sig": 32976896,
       "image": "images/skylanders/minis_sidekicks/32976896.png",
-      "name": "Spry",
+      "name": "Spy",
       "type": "skylander"
     },
     {
@@ -3930,7 +3930,7 @@
       "variant": 8192,
       "sig": 65544192,
       "image": "images/skylanders/swap_force/65544192.png",
-      "name": "Jet",
+      "name": "Boom Jet",
       "type": "skylander"
     },
     {
@@ -3939,7 +3939,7 @@
       "variant": 8192,
       "sig": 65609728,
       "image": "images/skylanders/swap_force/65609728.png",
-      "name": "Ranger",
+      "name": "Free Ranger",
       "type": "skylander"
     },
     {
@@ -3948,7 +3948,7 @@
       "variant": 9219,
       "sig": 65610755,
       "image": "images/skylanders/swap_force/65610755.png",
-      "name": "Legendary Ranger",
+      "name": "Legendary Free Ranger",
       "type": "skylander"
     },
     {
@@ -3957,7 +3957,7 @@
       "variant": 8192,
       "sig": 65675264,
       "image": "images/skylanders/swap_force/65675264.png",
-      "name": "Rouser",
+      "name": "Rubble Rouser",
       "type": "skylander"
     },
     {
@@ -3966,7 +3966,7 @@
       "variant": 8192,
       "sig": 65740800,
       "image": "images/skylanders/swap_force/65740800.png",
-      "name": "Stone",
+      "name": "Doom Stone",
       "type": "skylander"
     },
     {
@@ -3975,7 +3975,7 @@
       "variant": 8214,
       "sig": 65740822,
       "image": "images/skylanders/swap_force/65740822.png",
-      "name": "Stone (Bronze?)",
+      "name": "Gold & Broze Doom Stone",
       "type": "skylander"
     },
     {
@@ -3984,7 +3984,7 @@
       "variant": 8192,
       "sig": 65806336,
       "image": "images/skylanders/swap_force/65806336.png",
-      "name": "Zone",
+      "name": "Blast Zone",
       "type": "skylander"
     },
     {
@@ -3993,7 +3993,7 @@
       "variant": 9218,
       "sig": 65807362,
       "image": "images/skylanders/swap_force/65807362.png",
-      "name": "Dark Zone",
+      "name": "Dark Blast Zone",
       "type": "skylander"
     },
     {
@@ -4002,7 +4002,7 @@
       "variant": 8192,
       "sig": 65871872,
       "image": "images/skylanders/swap_force/65871872.png",
-      "name": "Kraken",
+      "name": "Fire Kraken",
       "type": "skylander"
     },
     {
@@ -4011,7 +4011,7 @@
       "variant": 8196,
       "sig": 65871876,
       "image": "images/skylanders/swap_force/65871876.png",
-      "name": "Kraken (Gold)",
+      "name": "Gold Fire Kraken",
       "type": "skylander"
     },
     {
@@ -4020,7 +4020,7 @@
       "variant": 9218,
       "sig": 65872898,
       "image": "images/skylanders/swap_force/65872898.png",
-      "name": "Jade Kraken",
+      "name": "Jade Fire Kraken",
       "type": "skylander"
     },
     {
@@ -4029,7 +4029,7 @@
       "variant": 8192,
       "sig": 65937408,
       "image": "images/skylanders/swap_force/65937408.png",
-      "name": "Bomb",
+      "name": "Stink Bomb",
       "type": "skylander"
     },
     {
@@ -4038,7 +4038,7 @@
       "variant": 8214,
       "sig": 65937430,
       "image": "images/skylanders/swap_force/65937430.png",
-      "name": "Bomb (Gold?)",
+      "name": "Gold Stink Bomb",
       "type": "skylander"
     },
     {
@@ -4047,7 +4047,7 @@
       "variant": 8192,
       "sig": 66002944,
       "image": "images/skylanders/swap_force/66002944.png",
-      "name": "Drilla",
+      "name": "Grilla Drilla",
       "type": "skylander"
     },
     {
@@ -4056,7 +4056,7 @@
       "variant": 8192,
       "sig": 66068480,
       "image": "images/skylanders/swap_force/66068480.png",
-      "name": "Loop",
+      "name": "Hoot Loop",
       "type": "skylander"
     },
     {
@@ -4065,7 +4065,7 @@
       "variant": 9218,
       "sig": 66069506,
       "image": "images/skylanders/swap_force/66069506.png",
-      "name": "Enchanted Loop",
+      "name": "Enchanted Hoot Loop",
       "type": "skylander"
     },
     {
@@ -4074,7 +4074,7 @@
       "variant": 8192,
       "sig": 66134016,
       "image": "images/skylanders/swap_force/66134016.png",
-      "name": "Shadow",
+      "name": "Trap Shadow",
       "type": "skylander"
     },
     {
@@ -4083,7 +4083,7 @@
       "variant": 8214,
       "sig": 66134038,
       "image": "images/skylanders/swap_force/66134038.png",
-      "name": "Shadow (Silver?)",
+      "name": "Bronze & Silver Trap Shadow",
       "type": "skylander"
     },
     {
@@ -4092,7 +4092,7 @@
       "variant": 8192,
       "sig": 66199552,
       "image": "images/skylanders/swap_force/66199552.png",
-      "name": "Charge",
+      "name": "Magna Charge",
       "type": "skylander"
     },
     {
@@ -4101,7 +4101,7 @@
       "variant": 9218,
       "sig": 66200578,
       "image": "images/skylanders/swap_force/66200578.png",
-      "name": "Nitro Charge",
+      "name": "Nitro Magna Charge",
       "type": "skylander"
     },
     {
@@ -4110,7 +4110,7 @@
       "variant": 8192,
       "sig": 66265088,
       "image": "images/skylanders/swap_force/66265088.png",
-      "name": "Rise",
+      "name": "Spy Rise",
       "type": "skylander"
     },
     {
@@ -4119,7 +4119,7 @@
       "variant": 8192,
       "sig": 66330624,
       "image": "images/skylanders/swap_force/66330624.png",
-      "name": "Shift",
+      "name": "Night Shift",
       "type": "skylander"
     },
     {
@@ -4137,7 +4137,7 @@
       "variant": 8192,
       "sig": 66396160,
       "image": "images/skylanders/swap_force/66396160.png",
-      "name": "Shake",
+      "name": "Rattle Shake",
       "type": "skylander"
     },
     {
@@ -4155,7 +4155,7 @@
       "variant": 8192,
       "sig": 66461696,
       "image": "images/skylanders/swap_force/66461696.png",
-      "name": "Blade",
+      "name": "Freeze Blade",
       "type": "skylander"
     },
     {
@@ -4173,7 +4173,7 @@
       "variant": 8192,
       "sig": 66527232,
       "image": "images/skylanders/swap_force/66527232.png",
-      "name": "Buckler",
+      "name": "Wash Buckler",
       "type": "skylander"
     },
     {
@@ -4209,7 +4209,7 @@
       "variant": 8192,
       "sig": 131080192,
       "image": "images/skylanders/swap_force/131080192.png",
-      "name": "Boom",
+      "name": "Boom Jet",
       "type": "skylander"
     },
     {
@@ -4218,7 +4218,7 @@
       "variant": 8192,
       "sig": 131145728,
       "image": "images/skylanders/swap_force/131145728.png",
-      "name": "Free",
+      "name": "Free Ranger",
       "type": "skylander"
     },
     {
@@ -4227,7 +4227,7 @@
       "variant": 9219,
       "sig": 131146755,
       "image": "images/skylanders/swap_force/131146755.png",
-      "name": "Legendary Free",
+      "name": "Legendary Free Ranger",
       "type": "skylander"
     },
     {
@@ -4236,7 +4236,7 @@
       "variant": 8192,
       "sig": 131211264,
       "image": "images/skylanders/swap_force/131211264.png",
-      "name": "Rubble",
+      "name": "Rubble Rouser",
       "type": "skylander"
     },
     {
@@ -4245,7 +4245,7 @@
       "variant": 8192,
       "sig": 131276800,
       "image": "images/skylanders/swap_force/131276800.png",
-      "name": "Doom",
+      "name": "Doom Stone",
       "type": "skylander"
     },
     {
@@ -4263,7 +4263,7 @@
       "variant": 8192,
       "sig": 131342336,
       "image": "images/skylanders/swap_force/131342336.png",
-      "name": "Blast",
+      "name": "Blast Zone",
       "type": "skylander"
     },
     {
@@ -4272,7 +4272,7 @@
       "variant": 9218,
       "sig": 131343362,
       "image": "images/skylanders/swap_force/131343362.png",
-      "name": "Dark Blast",
+      "name": "Dark Blast Zone",
       "type": "skylander"
     },
     {
@@ -4281,7 +4281,7 @@
       "variant": 8192,
       "sig": 131407872,
       "image": "images/skylanders/swap_force/131407872.png",
-      "name": "Fire",
+      "name": "Fire Kraken",
       "type": "skylander"
     },
     {
@@ -4299,7 +4299,7 @@
       "variant": 9218,
       "sig": 131408898,
       "image": "images/skylanders/swap_force/131408898.png",
-      "name": "Jade Fire",
+      "name": "Jade Fire Kraken",
       "type": "skylander"
     },
     {
@@ -4308,7 +4308,7 @@
       "variant": 8192,
       "sig": 131473408,
       "image": "images/skylanders/swap_force/131473408.png",
-      "name": "Stink",
+      "name": "Stink Bomb",
       "type": "skylander"
     },
     {
@@ -4326,7 +4326,7 @@
       "variant": 8192,
       "sig": 131538944,
       "image": "images/skylanders/swap_force/131538944.png",
-      "name": "Grilla",
+      "name": "Grilla Drilla",
       "type": "skylander"
     },
     {
@@ -4335,7 +4335,7 @@
       "variant": 8192,
       "sig": 131604480,
       "image": "images/skylanders/swap_force/131604480.png",
-      "name": "Hoot",
+      "name": "Hoot Loop",
       "type": "skylander"
     },
     {
@@ -4344,7 +4344,7 @@
       "variant": 9218,
       "sig": 131605506,
       "image": "images/skylanders/swap_force/131605506.png",
-      "name": "Enchanted Hoot",
+      "name": "Enchanted Hoot Loop",
       "type": "skylander"
     },
     {
@@ -4353,7 +4353,7 @@
       "variant": 8192,
       "sig": 131670016,
       "image": "images/skylanders/swap_force/131670016.png",
-      "name": "Trap",
+      "name": "Trap Shadow",
       "type": "skylander"
     },
     {
@@ -4371,7 +4371,7 @@
       "variant": 8192,
       "sig": 131735552,
       "image": "images/skylanders/swap_force/131735552.png",
-      "name": "Magna",
+      "name": "Magna Charge",
       "type": "skylander"
     },
     {
@@ -4380,7 +4380,7 @@
       "variant": 9218,
       "sig": 131736578,
       "image": "images/skylanders/swap_force/131736578.png",
-      "name": "Nitro Magna",
+      "name": "Nitro Magna Charge",
       "type": "skylander"
     },
     {
@@ -4389,7 +4389,7 @@
       "variant": 8192,
       "sig": 131801088,
       "image": "images/skylanders/swap_force/131801088.png",
-      "name": "Spy",
+      "name": "Spy Rise",
       "type": "skylander"
     },
     {
@@ -4398,7 +4398,7 @@
       "variant": 8192,
       "sig": 131866624,
       "image": "images/skylanders/swap_force/131866624.png",
-      "name": "Night",
+      "name": "Night Shift",
       "type": "skylander"
     },
     {
@@ -4407,7 +4407,7 @@
       "variant": 9219,
       "sig": 131867651,
       "image": "images/skylanders/swap_force/131867651.png",
-      "name": "Legendary Night",
+      "name": "Legendary Night Shift",
       "type": "skylander"
     },
     {
@@ -4416,7 +4416,7 @@
       "variant": 8192,
       "sig": 131932160,
       "image": "images/skylanders/swap_force/131932160.png",
-      "name": "Rattle",
+      "name": "Rattle Shake",
       "type": "skylander"
     },
     {
@@ -4434,7 +4434,7 @@
       "variant": 8192,
       "sig": 131997696,
       "image": "images/skylanders/swap_force/131997696.png",
-      "name": "Freeze",
+      "name": "Freeze Blade",
       "type": "skylander"
     },
     {
@@ -4443,7 +4443,7 @@
       "variant": 9218,
       "sig": 131998722,
       "image": "images/skylanders/swap_force/131998722.png",
-      "name": "Nitro Freeze",
+      "name": "Nitro Freeze Blade",
       "type": "skylander"
     },
     {
@@ -4452,7 +4452,7 @@
       "variant": 8192,
       "sig": 132063232,
       "image": "images/skylanders/swap_force/132063232.png",
-      "name": "Wash",
+      "name": "Wash Buckler",
       "type": "skylander"
     },
     {
@@ -4470,7 +4470,7 @@
       "variant": 9218,
       "sig": 132064258,
       "image": "images/skylanders/swap_force/132064258.png",
-      "name": "Dark Wash",
+      "name": "Dark Wash Buckler",
       "type": "skylander"
     },
     {
@@ -4578,7 +4578,7 @@
       "variant": 8729,
       "sig": 196944409,
       "image": "images/skylanders/swap_force/196944409.png",
-      "name": "Snowderdash (???)",
+      "name": "Snowderdash",
       "type": "skylander"
     },
     {
@@ -4704,7 +4704,7 @@
       "variant": 8192,
       "sig": 197337088,
       "image": "images/skylanders/swap_force/197337088.png",
-      "name": "Wind-Up",
+      "name": "Wind Up",
       "type": "skylander"
     },
     {
